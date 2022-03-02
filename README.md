@@ -34,5 +34,9 @@ The evolution of the network was recorded after every 15 epochs and the training
 ![model](./images/9.png)
 ![model](./images/10.png)
 
+
+
 Training loss of discriminator and generator-
+
+
 ![model](./images/disc-gen.png)
